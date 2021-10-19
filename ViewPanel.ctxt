@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ViewPanel
+comment1.params=
+comment1.target=ViewPanel()
+comment2.params=
+comment2.target=javax.swing.JPanel\ panelUI()
+comment3.params=
+comment3.target=javax.swing.table.DefaultTableModel\ getModel()
+comment4.params=
+comment4.target=javax.swing.JTable\ getTable()
+numComments=5

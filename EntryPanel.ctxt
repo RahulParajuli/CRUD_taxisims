@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EntryPanel
+comment1.params=
+comment1.target=EntryPanel()
+comment2.params=
+comment2.target=javax.swing.JPanel\ panelUI()
+comment3.params=
+comment3.target=javax.swing.JTextField\ getTotalFirstName()
+comment4.params=
+comment4.target=javax.swing.JTextField\ getTotalLastName()
+comment5.params=
+comment5.target=javax.swing.JTextField\ getTotalRegNumber()
+comment6.params=
+comment6.target=javax.swing.JButton\ getBtnSave()
+comment7.params=
+comment7.target=javax.swing.JButton\ getBtnUpdate()
+comment8.params=
+comment8.target=javax.swing.JButton\ getBtnDelete()
+numComments=9
